@@ -1,0 +1,2 @@
+### First Docker App
+This repository contains my first Docker application. It's a simple demonstration of Docker usage, where I've containerized a basic application. This project serves as a starting point for learning Docker and understanding containerization concepts.
